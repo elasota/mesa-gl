@@ -1,0 +1,6 @@
+declare_args() {
+}
+
+config("mesa_public") {
+  include_dirs = [ "include" ]
+}
